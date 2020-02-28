@@ -2,44 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acmachine.github.io</id>
     <title>Gridea</title>
-    <updated>2020-02-28T01:37:06.734Z</updated>
+    <updated>2020-02-28T01:39:36.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acmachine.github.io"/>
     <link rel="self" href="https://acmachine.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个超级菜鸡的辣鸡博客</subtitle>
     <logo>https://acmachine.github.io/images/avatar.png</logo>
     <icon>https://acmachine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://acmachine.github.io/post/hello-gridea/</id>
-        <link href="https://acmachine.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[FFF团连续剧第三集]]></title>
+        <id>https://acmachine.github.io/post/fff-tuan-lian-xu-ju-di-san-ji/</id>
+        <link href="https://acmachine.github.io/post/fff-tuan-lian-xu-ju-di-san-ji/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-02-28T01:39:25.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.luogu.org/discuss/show/60561">前两集见此链接</a></p>
+<h1 id="前言">前言</h1>
+<p>我是AC机，我们老大（Maidcury_Disaster），让我来写这一集。<br>
+这一集是我的自传，有可能会有点脱节，不过还是请您欣赏这个故事。（如果您确实欣赏的话）</p>
+<h1 id="第一章起源">第一章:起源</h1>
+<ol>
+<li>2月13日，我入了OI，15:21分，我成功输出了&quot;hello world!&quot;。</li>
+<li>2018-03-10 21:41 我注册第一个洛谷号，但，不是AC机。</li>
+<li>2018-04-10 20:42 AC机出现了。</li>
+</ol>
+<p>大概是在04-20左右，我开始水犇犇了。刚开始水的时候，我并没有虐狗。<br>
+那天晚上，我们不知道怎么的，说到了SWQ，没错…………然后就一度尴尬。第二天早上我同学@剑圣夜雨声烦 跟我说，我现在在你谷有点名气了，让我虐狗。我一开始真的是不想的（真的），后来，试了一次，觉得有快感（我™也不知道为什么），于是，我就走上了这条不归路…………</p>
+<h1 id="第二章深陷">第二章:深陷</h1>
+<p>大概是从五月份开始，我水犇犇遇到了一群好友：任梦华，青无常和Irressey。于是各种互怼，各种撕逼……</p>
+<p>具体的可以参看Irressey给我写的语录。我很高兴可以遇到他们，但是好景不长，突然出现了FFF团。</p>
+<p>FFF团开始四处烧我，怼我，后来，我知道任梦华也是FFF团的…………于是洛谷犇犇连续2~3个月一直是我和FFF团斗智斗勇。这是我最怀念的部分，大家都知道，现在全网犇犇已经关掉了，AC机的号，也禁言了。</p>
+<p>到了7月份，7月1日晚上，就是我被禁言的日子……不过好在，废龙（地狱废龙）给了我，他的小号——月挣零_yzl，我还是一直在水，顺便虐狗。7月20日左右，我月挣零的号也挂了，某位巨佬给我雪绮晶这个号。八月，我认识了夜刀神十香，十香是巨佬，不仅OI6bi，而且他的妹子好看，这段时间，犇犇一直是由十香统治的。暑假结束，我上初一了，我的犇犇生涯，迎来了最后章节…………</p>
+<h1 id="第三章消逝">第三章:消逝</h1>
+<p>10月份左右，我雪绮晶的号，被机惨，然后也挂了……恶魔妈妈买面膜。不过呢，我的基友C_SUNLIGHT给我他的小号，爱吃肉的瓶子，我直到，现在还在用这个号苟延残喘。但是好景不长，NOIP虽然骗了一个PJ组一等奖，但是学校，老师，家长还是让我半退役了…………这一退役就到了学期结束。寒假闲来无事水水犇犇，但是已经不虐狗了。</p>
+<p>初一下学期，全网犇犇关了。我的犇犇生涯就此谢幕，它就像流星，虽然短暂，但是繁华。</p>
+<p>我通过犇犇认识了不少朋友。这在我后来的OI生涯中起到了很大的作用。</p>
+<h1 id="后记">后记</h1>
+<p>在这里给各位道个歉，我现在想想也觉得我以前就是一个小学生睿智，请各位原谅我。现在我已经不是以前的AC机了，希望在今后，我们还能遇见，感谢洛谷，感谢OI，它们让我遇见了你们。OIer是五大竞赛中最有爱的集体。</p>
+<blockquote>
+<p><em>此生不悔入OI。</em></p>
+</blockquote>
+<p>注：近期犇犇质量严重下降，不免心痛。曾经的回忆就这样逝去。故写此文悼念。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFF团连续剧第四集]]></title>
+        <id>https://acmachine.github.io/post/fff-tuan-lian-xu-ju-di-si-ji/</id>
+        <link href="https://acmachine.github.io/post/fff-tuan-lian-xu-ju-di-si-ji/">
+        </link>
+        <updated>2020-02-28T01:38:15.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="笔者序">笔者序：</h3>
+<p>大家好，我是AC机。这次的作者还是我，上集的总集篇（可以这么说吧）是帮大家回顾我的辣鸡生涯（黑历史），现在我们接着第二集的剧情。（我写的第三集里有第二集的链接，没看的可以去看）</p>
+<h2 id="正文">正文：</h2>
+<p>自从上次FFF团吸收了一大批新兵蛋子之后，FFF团战力壮大了起来。</p>
+<p>AC机却更加猖狂，从以前的有妹子，到现在和妹子有肢体接触，越来越肆无忌惮。</p>
+<p>这时犇犇里出现了一个新的常驻嘉宾：剑圣夜雨声烦</p>
+<p>他是AC机的同学，平常一直在抵制AC机，但在某一天后开始和AC机比拼虐狗了起来。实在是让人费解。具体我们可以根据真正史官Irressey所写的AC机经典语录传来感受AC机睿智的xxs行为。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.luogu.com.cn/upload/image_hosting/pz404ml7.png" alt="" loading="lazy"></figure>
+<p>然而，AC机在一次虐狗中，和青无常公然开车，最后超速被抓。</p>
+<p>我们再次参考史书，让大家感受一下。</p>
+<p><img src="https://cdn.luogu.com.cn/upload/image_hosting/xkkea8kh.png" alt="" loading="lazy"><br>
+<img src="https://cdn.luogu.com.cn/upload/image_hosting/w6vsokt4.png" alt="" loading="lazy"><br>
+<img src="https://cdn.luogu.com.cn/upload/image_hosting/xt6cbof2.png" alt="" loading="lazy"><br>
+<img src="https://cdn.luogu.com.cn/upload/image_hosting/73y9el50.png" alt="" loading="lazy"><br>
+AC机时代宣布结束？</p>
+<p>当然没有，FFF团虽然攻势猛烈，侵略如火但是AC机以他小强般的生命力一次又一次的重生，但他也许学会了什么，渐渐沉寂下来，最终加入了FFF团。</p>
+<h3 id="下集预告">下集预告：</h3>
+<p>下集会说废龙和他妹妹lyclyc在FFF团qq群里发生的事情，大家可以期待一下，有趣程度不亚于AC机虐狗。</p>
+<h3 id="注">注：</h3>
+<p>笔者的文风和原文作者可能有些不同，但还是希望您欣赏这个故事。</p>
+<p>这个故事不只是来嘲讽我，也是提醒我自己和其他人，小小年纪的，不要对爱情抱有过多幻想，他只是你在生活上的需求，没有步入社会之前，对你没用，你也不懂。</p>
 ]]></content>
     </entry>
 </feed>
