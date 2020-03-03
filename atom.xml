@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acmachine.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-02-28T13:53:37.389Z</updated>
+    <title>AC机的blog</title>
+    <updated>2020-03-03T09:18:09.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acmachine.github.io"/>
     <link rel="self" href="https://acmachine.github.io/atom.xml"/>
     <subtitle>一个超级菜鸡的辣鸡博客</subtitle>
     <logo>https://acmachine.github.io/images/avatar.png</logo>
     <icon>https://acmachine.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, AC机的blog</rights>
     <entry>
         <title type="html"><![CDATA[FFF团连续剧第三集]]></title>
         <id>https://acmachine.github.io/post/fff-tuan-lian-xu-ju-di-san-ji/</id>

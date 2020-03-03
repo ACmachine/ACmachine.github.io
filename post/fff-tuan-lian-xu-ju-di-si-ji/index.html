@@ -1,111 +1,105 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>FFF团连续剧第四集 | Gridea</title>
-<link rel="shortcut icon" href="https://acmachine.github.io/favicon.ico?v=1582898006004">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+    
+<meta charset="utf-8" >
+
+<title>FFF团连续剧第四集 | AC机的blog</title>
+<meta name="description" content="一个超级菜鸡的辣鸡博客">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://acmachine.github.io/favicon.ico?v=1583227082566">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://acmachine.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="FFF团连续剧第四集 | Gridea - Atom Feed" href="https://acmachine.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-    <meta name="description" content="笔者序：
-大家好，我是AC机。这次的作者还是我，上集的总集篇（可以这么说吧）是帮大家回顾我的辣鸡生涯（黑历史），现在我们接着第二集的剧情。（我写的第三集里有第二集的链接，没看的可以去看）
-正文：
-自从上次FFF团吸收了一大批新兵蛋子之后，F..." />
-    <meta name="keywords" content="FFF团连续剧" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://acmachine.github.io">
-  <img class="avatar" src="https://acmachine.github.io/images/avatar.png?v=1582898006004" alt="">
-  </a>
-  <h1 class="site-title">
-    Gridea
-  </h1>
-  <p class="site-description">
-    一个超级菜鸡的辣鸡博客
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-        <a href="https://github.com/ACmachine" target="_blank">
-          <i class="ri-github-line"></i>
-        </a>
-      
-    
-      
-    
-      
-    
-      
-        <a href="https://www.zhihu.com/people/acji-43" target="_blank">
-          <i class="ri-zhihu-line"></i>
-        </a>
-      
-    
-      
-    
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://acmachine.github.io">
+        <img class="avatar" src="https://acmachine.github.io/images/avatar.png?v=1583227082566" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://acmachine.github.io">
+        <h1 class="site-title">AC机的blog</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
   </div>
 </div>
 
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
         <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              FFF团连续剧第四集
-            </h2>
-            <div class="post-info">
-              <span>
-                2020-02-28
-              </span>
-              <span>
-                2 min read
-              </span>
-              
-                <a href="https://acmachine.github.io/tag/MzuS6bSsz/" class="post-tag">
-                  # FFF团连续剧
-                </a>
-              
+          
+            <div class="feature-container" style="background-image: url('https://i.loli.net/2020/02/28/5pFJx3hP6wIAQmf.jpg')">
             </div>
+          
+          <h2 class="post-title">FFF团连续剧第四集</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-02-28</span>
             
-              <img class="post-feature-image" src="https://i.loli.net/2020/02/28/5pFJx3hP6wIAQmf.jpg" alt="">
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://acmachine.github.io/tag/MzuS6bSsz/">
+                    FFF团连续剧
+                    
+                  </a>
+                
+              </span>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <h3 id="笔者序">笔者序：</h3>
+          </div>
+          <div class="post-content">
+            <h3 id="笔者序">笔者序：</h3>
 <p>大家好，我是AC机。这次的作者还是我，上集的总集篇（可以这么说吧）是帮大家回顾我的辣鸡生涯（黑历史），现在我们接着第二集的剧情。（我写的第三集里有第二集的链接，没看的可以去看）</p>
 <h2 id="正文">正文：</h2>
 <p>自从上次FFF团吸收了一大批新兵蛋子之后，FFF团战力壮大了起来。</p>
@@ -127,84 +121,49 @@
 <p>笔者的文风和原文作者可能有些不同，但还是希望您欣赏这个故事。</p>
 <p>这个故事不只是来嘲讽我，也是提醒我自己和其他人，小小年纪的，不要对爱情抱有过多幻想，他只是你在生活上的需求，没有步入社会之前，对你没用，你也不懂。</p>
 
-              </div>
-              <div class="toc-container">
-                <ul class="markdownIt-TOC">
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#%E7%AC%94%E8%80%85%E5%BA%8F">笔者序：</a></li>
-</ul>
-</li>
-<li><a href="#%E6%AD%A3%E6%96%87">正文：</a>
-<ul>
-<li><a href="#%E4%B8%8B%E9%9B%86%E9%A2%84%E5%91%8A">下集预告：</a></li>
-<li><a href="#%E6%B3%A8">注：</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-
-              </div>
-            </div>
-          </article>
+          </div>
         </div>
 
         
+      </div>
 
-        
+      
 
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://acmachine.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
+      <div class="site-footer">
+  <div class="slogan">一个超级菜鸡的辣鸡博客</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://acmachine.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
-      </div>
+
     </div>
+    <script type="application/javascript">
 
-    <script>
-      hljs.initHighlightingOnLoad()
+hljs.initHighlightingOnLoad()
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+</script>
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
   </body>
 </html>
